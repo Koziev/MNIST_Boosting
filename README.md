@@ -1,3 +1,8 @@
-# MNIST_Boosting
-Comparison of XGBoost, LightGBM and CatBoost on MNIST classification problem
-Read http://kelijah.livejournal.com/216093.html for more information and results of comparison.
+# Черновое сравнение реализаций градиентного бустинга
+
+Репозиторий содержит исходный код моделей мультиклассовой классификации (MNIST)
+с помощью XGBoost, LightGBM и CatBoost.
+
+Сравнивается точность каждой реализации по определению цифры на картинке.
+
+Подробности и результаты можно прочитать тут: http://kelijah.livejournal.com/216093.html
